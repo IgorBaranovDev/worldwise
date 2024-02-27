@@ -1,4 +1,5 @@
 import { useSearchParams, useNavigate } from "react-router-dom";
+
 import styles from "./Map.module.css";
 
 function Map() {
